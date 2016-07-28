@@ -32,6 +32,9 @@
         "MylabTest\\Session\\": "test/"
       }
     },
+    "suggest": {
+        "mtymek/expressive-config-manager": "Allows collecting and merging configuration from different sources"
+    },
     "scripts": {
         "test": "phpunit"
     }
